@@ -1,0 +1,4 @@
+1. When we learn new language or scripting language we need to think is this feature already there in the Ruby or not.
+So need to sufficient applications on Ruby to remember these features.
+2. There are many open source project on Ruby, if we have linux then we can contriute and learn more. But for windows system I don't feel
+good to use Ruby.

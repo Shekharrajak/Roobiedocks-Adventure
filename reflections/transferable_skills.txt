@@ -1,0 +1,2 @@
+1. I have learnt Web developement last year so I have good knowledge in HTML,CSS, JS frameworks and PHP-codeigniter.
+2. In college I learnt C,C++,Java and working on Python in GSoC 2016 under SymPy.
